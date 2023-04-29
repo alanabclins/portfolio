@@ -1,4 +1,4 @@
-# Meu portfolio
+# Meu portfólio
 <p> Este é um projeto que desenvolvi para mostrar minhas habilidades em HTML e CSS. Nesta página, você encontrará informações sobre mim, meus projetos e minhas habilidades.</p>
 
 <h2> Como  executar o projeto </h2>
