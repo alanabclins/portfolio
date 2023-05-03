@@ -1,8 +1,33 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+
 body {
+    height: 100vh;
+    box-sizing: border-box;
     background-color: #3f403f;
     color: #c0bfc0;
     
 }
-strong {
+img {
+    width: 35%;
+}
+.name {
     color: #47bec9;
+}
+.presentation{
+    margin: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+} 
+.presentation__content{
+    width: 615px;
+}
+.presentation__content__title{
+    font-size: 90px;
+}
+.presentation__content__p{
+    font-size: 50px;
 }
